@@ -1,7 +1,7 @@
 # @abraj/tiny
 
-![npm](https://img.shields.io/npm/v/@abraj/tiny)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@abraj/tiny)
+[![npm (scoped)](https://img.shields.io/npm/v/@abraj/tiny.svg)](https://www.npmjs.com/package/@abraj/tiny)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@abraj/tiny.svg)](https://www.npmjs.com/package/@abraj/tiny)
 
 Removes all spaces from a string.
 
