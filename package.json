@@ -1,4 +1,17 @@
 {
   "name": "@abraj/tiny",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraj/tiny.git"
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "abraj"
+  ],
+  "license": "MIT"
 }
